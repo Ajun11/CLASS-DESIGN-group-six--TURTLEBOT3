@@ -1,0 +1,8 @@
+prefix=/home/liujun/Code/wangfei_slam/catkin_cars/devel
+
+Name: image_yolo
+Description: Description of image_yolo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,2 @@
+image_yolo
+-DCATKIN_DEVEL_PREFIX=/home/liujun/Code/wangfei_slam/catkin_cars/devel -DCMAKE_INSTALL_PREFIX=/home/liujun/Code/wangfei_slam/catkin_cars/install -G Unix Makefiles
